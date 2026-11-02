@@ -2,7 +2,7 @@
 
 **A production-ready multi-tenant SaaS backend you can deploy in 15 minutes** — Spring Boot 3.3 · Java 21 · MySQL 8 · Flyway · Stripe + Mercado Pago.
 
-Built from a real B2B2C product, not from a tutorial. Every piece here has handled real users, real webhooks and real support tickets.
+Built from a real B2B2C product, not from a tutorial. Every piece here was built for production, not for a tutorial: real webhook ordering, real tenant isolation, real deploy.
 
 ## What's inside
 
