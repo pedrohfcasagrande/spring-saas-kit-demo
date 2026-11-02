@@ -1,0 +1,48 @@
+Spring SaaS Kit — Commercial License
+Copyright (c) 2026 Pedro Casagrande. All rights reserved.
+
+1. Grant of use.
+   When you have obtained a paid copy of this software (the "Kit"), you are
+   granted a non-exclusive, non-transferable, worldwide, perpetual license to
+   use, modify and incorporate the Kit into an unlimited number of software
+   projects, whether built for yourself, for your employer or for your clients.
+   Projects built on the Kit may be distributed under the license of your
+   choosing.
+
+2. What you may NOT do.
+   You may not resell, sublicense, redistribute, publish, mirror, host a public
+   fork of, or otherwise make the Kit itself (its source code or any
+   substantial part of it that is not combined with your own product) available
+   to third parties, whether for a fee or free of charge. Posting to a public
+   repository, package registry, pastebin, torrent, or any other channel from
+   which the Kit can be downloaded as a standalone artifact is prohibited.
+
+3. One copy per buyer.
+   Each paid copy entitles one legal entity to use the Kit as described in
+   section 1. Teams within the same company share one copy. Agencies and
+   consultancies serving multiple clients still need one copy per entity that
+   obtains ownership of the derived codebase.
+
+4. Attribution.
+   Attribution is appreciated but not required. You may remove the original
+   copyright notices from compiled artifacts you ship.
+
+5. No warranty.
+   The Kit is provided "AS IS", without warranty of any kind, express or
+   implied, including but not limited to the warranties of merchantability,
+   fitness for a particular purpose and non-infringement. In no event shall the
+   author be liable for any claim, damages or other liability, whether in an
+   action of contract, tort or otherwise, arising from, out of or in connection
+   with the Kit or the use of or other dealings in it.
+
+6. Termination.
+   Any breach of sections 2 or 3 terminates this license immediately. On
+   termination you must stop using the Kit and destroy all copies in your
+   possession. Projects you have shipped prior to termination that incorporate
+   the Kit may continue to be used by their end users.
+
+7. Governing law.
+   This license is governed by the laws of Portugal. Disputes shall be
+   submitted to the competent courts of Lisbon.
+
+Contact: pedro.casagrande@proton.me
